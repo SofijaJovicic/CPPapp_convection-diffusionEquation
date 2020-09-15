@@ -9,4 +9,4 @@ Aleksandra Nerandzic,
 Marina Nikolic,
 Sofija Jovicic
 
-Purpose: learning C++ and GUI programming with Qt. Course: Software Development. Date: May 2016.
+Purpose: learning C++ and GUI programming with Qt. Course: Software Development. Date: June 2017.
