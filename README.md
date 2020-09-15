@@ -1,10 +1,12 @@
 # CPPapp_convection-diffusionEquation
 # rs16-11
 
-Naziv projekta:
-Simulacija transporta mase u fluidu odnosno energije u telu
+Project Name:
+Simulation of mass transport in fluid or energy in body
 
-Autori:
+Authors:
 Aleksandra Nerandzic,
 Marina Nikolic,
 Sofija Jovicic
+
+Purpose: learning C++ and GUI programming with Qt. Date: May 2016.
