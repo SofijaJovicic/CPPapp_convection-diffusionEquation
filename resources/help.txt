@@ -1,1 +1,37 @@
+OBJAŠNJENJE:
 
+
+Unose se poznate, početne vrednosti.
+
+1. Domain - domen u kome posmatramo širenje materije, koncentraciju
+xmin - leva granica za x u metrima
+ymin - leva granica za y u metrima
+xmax - desna granica za x u metrima
+ymax - desna granica za y u metrima
+nx - broj tačaka podele intervala [xmin,xmax]
+ny - broj tačaka podele intervala [ymin,ymax]
+Tend - ukupan vremenski period tokom kog posmatramo, maksimalno vreme
+nt - podela vremenskog perioda
+
+2. Boundary - granica (na njoj vaze specijalni uslovi)
+Dirichlet - selektovan Dirihleov uslov
+Neumann - selektovan Nojmanov uslov, ima svoju podrazumevanu vrednost, zato je unošenje zabranjeno
+
+3. Initial value - inicijalna, početna vrednost mase (energije) u kilogramima po metru kubnom
+
+4. Velocity - brzina širenja materije
+Vx - vektor brzine po pravcu x-ose u metrima po sekundi
+Vy - vektor brzine po pravcu y-ose u metrima po sekundi
+
+5. Diffusivity - difuzivnost
+Dx - vektor difuzivnost po pravcu x-ose u kvadratnom metru po sekundi
+Dy - vektor difuzivnost po pravcu y-ose u kvadratnom metru po sekundi
+
+6. Source - izvor, mesto ulaska materije u prostor koji posmatramo
+xmin - leva granica za x u metrima
+ymin - leva granica za y u metrima
+xmax - desna granica za x u metrima
+ymax - desna granica za y u metrima
+Time begin - pocetni momenat ulaska materije
+Time end - krajnji momenat ulaska materije
+Value - vrednost koncentracije na ulazu
